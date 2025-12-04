@@ -79,7 +79,8 @@ A clean and scalable full-stack task management application built using the MERN
 **Tech Stack:** React/Angular, Node.js, Express, MongoDB, JWT
 
 🔗 [View Repository](https://github.com/Sanjaymo/mern-todo-app)
-🔗 [App Link](mern-todo-app-mu-three.vercel.app )
+🔗 [App Link](https://mern-todo-app-mu-three.vercel.app )
+
 
 ---
 
