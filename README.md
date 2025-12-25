@@ -128,7 +128,7 @@ I'm always excited to collaborate on interesting projects and connect with fello
 </p>
 
 📧 **Email:** sanjaychoudhari288@gmail.com  
-🌐 **Portfolio:** [sanjaych09.me](https://sanjaych09.me)  
+🌐 **Portfolio:** [SanjayChoudhari](https://Sanjaymo.github.io)  
 📍 **Location:** Parul University, Vadodara, Gujarat
 
 ---
