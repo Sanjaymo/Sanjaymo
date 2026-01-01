@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sanjay Choudhari
 
-🚀 **Data Scientist | Full Stack Developer | ML Engineer**
+🚀 **Data Science | Full Stack Developer | ML Engineer**
 
 Welcome to my GitHub! I'm a passionate software engineer and data scientist who loves building intelligent applications and solving complex problems with data-driven solutions.
 
@@ -32,11 +32,9 @@ Welcome to my GitHub! I'm a passionate software engineer and data scientist who 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 ### **Backend & Frameworks**
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### **Data Science & ML**
@@ -69,7 +67,17 @@ A machine learning application that predicts house prices based on various featu
 **Tech Stack:** Python, Scikit-learn, Flask, Pandas, NumPy
 
 🔗 [View Repository](https://github.com/Sanjaymo/house-price-prediction)
-🔗 [App Link](https://house-price-prediction-gbc.streamlit.app)
+🔗 [App Link](https://house-price-prediction-09.streamlit.app/)
+
+---
+
+### 🏡 Personality Prediction App
+A machine learning application that predicts personality wheather you are an extrovert or an introverst based on various features using RandomForest Classifier models and data analysis.
+
+**Tech Stack:** Python, Scikit-learn, Flask, Pandas, NumPy
+
+🔗 [View Repository](https://github.com/Sanjaymo/Personality-Prediction-Check.git)
+🔗 [App Link](https://personality-prediction-check-enjtcfujydzgkcn8ihcwls.streamlit.app/)
 
 ---
 
