@@ -201,7 +201,7 @@ I'm actively seeking opportunities to contribute my skills in **Data Science**, 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_with_me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjaychoudhari09/)
 [![Email](https://img.shields.io/badge/Email-sanjaychoudhari288@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanjaychoudhari288@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://Sanjay.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://Sanjaymo.github.io)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sanjay_choudhari09/)
 
 </div>
