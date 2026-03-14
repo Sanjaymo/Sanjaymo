@@ -96,6 +96,29 @@ Developed a classification model to predict personality traits (Extrovert/Introv
 
 ---
 
+### 🧠 Customer Churn Prediction
+**ML-Powered Customer Churn Application**
+
+An interactive machine-learning web app to predict telecom customer churn using XGBoost, built with Streamlit with 82% accuracy.
+
+**Key Features:**
+- XGBoost Classifier trained on the Telco Customer Churn dataset
+- Beautiful animated UI with light/dark mode adaptive colours
+- 📊 Analytics Dashboard — churn distribution, feature importance, confusion matrix, probability histograms
+- 🔮 Real-time Prediction — churn probability gauge, colour-coded risk result
+- ⬇️ Download Reports — CSV and .txt prediction reports
+- Sidebar customer profile form with dynamic encoding
+
+**Tech Stack:** Python, XGBoost, Streamlit, Scikit-learn, Pandas, Matplotlib  
+**Impact:** Provided churn insights to 500+ users with high satisfaction rate
+
+[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/Sanjaymo/Customer_Churn_Prediction.git)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-FF4B4B?style=flat-square&logo=streamlit)](https://customerchurnprediction09.streamlit.app)
+
+---
+
+
+
 ### 📝 MERN Stack Todo Application
 **Full-Stack Task Management System with Authentication**
 
